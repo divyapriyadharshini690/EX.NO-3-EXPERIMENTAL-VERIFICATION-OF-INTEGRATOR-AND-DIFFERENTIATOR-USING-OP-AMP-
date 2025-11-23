@@ -61,15 +61,10 @@ We get , R1 =	and hence Rf =
 
 
 ## TABULATION
-| Waveform Type | **Input Amplitude (V)** | **Input Time Period (ms)** | **Input Frequency (Hz)** | **Output Amplitude (V)** | **Output Time Period (ms)** | **Output Frequency (Hz)** |
-|----------------|--------------------------|-----------------------------|---------------------------|---------------------------|------------------------------|----------------------------|
-| Sine Wave      |                          |                             |                           |                           |                              |                            |
-| Square Wave    |                          |                             |                           |                           |                              |                            |
-		
-
----
+![WhatsApp Image 2025-11-23 at 15 24 32_7c8aeb6f](https://github.com/user-attachments/assets/df49bd76-f409-4b85-83b8-64d296758abb)
 
 ## OUT PUT WAVEFORM AND DISCUSSION 
+![WhatsApp Image 2025-11-23 at 15 24 33_66fcb9b4](https://github.com/user-attachments/assets/995d79c6-bd62-4868-a3ec-86b9aec6a93a)
 
 
 ---
@@ -149,15 +144,14 @@ We get, CF = (1.59*103*10-7) / 15.9*103
 4.	The output voltage is obtained in the CRO and the input and output voltage waveforms are plotted in a graph sheet.
 
  ## TABULATION
-| Waveform Type | **Input Amplitude (V)** | **Input Time Period (ms)** | **Input Frequency (Hz)** | **Output Amplitude (V)** | **Output Time Period (ms)** | **Output Frequency (Hz)** |
-|----------------|--------------------------|-----------------------------|---------------------------|---------------------------|------------------------------|----------------------------|
-| Sine Wave      |                          |                             |                           |                           |                              |                            |
-| Square Wave    |                          |                             |                           |                           |                              |                            |
-		
+
+	![WhatsApp Image 2025-11-23 at 15 25 45_84e85918](https://github.com/user-attachments/assets/183507e3-b369-428c-8cd9-3a95c503a854)
+	
 
 ## OUT PUT WAVEFORM AND DISCUSSION 
 
----
+--![WhatsApp Image 2025-11-23 at 15 26 22_092139a5](https://github.com/user-attachments/assets/02c45461-6690-46ce-9a3a-ab28438f822c)
+
 
 RESULT:
 Thus an Integrator and Differentiator using op-amp are designed and their performance was successfully tested using op-amp IC 741.
