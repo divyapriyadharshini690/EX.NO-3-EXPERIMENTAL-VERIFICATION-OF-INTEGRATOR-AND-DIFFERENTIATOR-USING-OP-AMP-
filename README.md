@@ -61,16 +61,13 @@ We get , R1 =	and hence Rf =
 
 
 ## TABULATION
-| Waveform Type | **Input Amplitude (V)** | **Input Time Period (ms)** | **Input Frequency (Hz)** | **Output Amplitude (V)** | **Output Time Period (ms)** | **Output Frequency (Hz)** |
-|----------------|--------------------------|-----------------------------|---------------------------|---------------------------|------------------------------|----------------------------|
-| Sine Wave      |                          |                             |                           |                           |                              |                            |
-| Square Wave    |                          |                             |                           |                           |                              |                            |
-		
+![WhatsApp Image 2025-11-23 at 15 24 32_907ed2d7](https://github.com/user-attachments/assets/6078a40e-ce6a-4d1d-883e-0eae5dcb9301)
 
 ---
 
 ## OUT PUT WAVEFORM AND DISCUSSION 
 
+![WhatsApp Image 2025-11-23 at 15 24 33_cc93e162](https://github.com/user-attachments/assets/9a453512-dafe-4962-ba79-00a493b515bc)
 
 ---
 **DATE:**  
@@ -149,13 +146,11 @@ We get, CF = (1.59*103*10-7) / 15.9*103
 4.	The output voltage is obtained in the CRO and the input and output voltage waveforms are plotted in a graph sheet.
 
  ## TABULATION
-| Waveform Type | **Input Amplitude (V)** | **Input Time Period (ms)** | **Input Frequency (Hz)** | **Output Amplitude (V)** | **Output Time Period (ms)** | **Output Frequency (Hz)** |
-|----------------|--------------------------|-----------------------------|---------------------------|---------------------------|------------------------------|----------------------------|
-| Sine Wave      |                          |                             |                           |                           |                              |                            |
-| Square Wave    |                          |                             |                           |                           |                              |                            |
-		
+![WhatsApp Image 2025-11-23 at 15 25 45_5a735273](https://github.com/user-attachments/assets/f214a9d3-3547-47da-9a49-106d2a3ff966)
+
 
 ## OUT PUT WAVEFORM AND DISCUSSION 
+![WhatsApp Image 2025-11-23 at 15 26 22_ec88a984](https://github.com/user-attachments/assets/a3580bbf-0127-4c72-b480-bbd979e14f1a)
 
 ---
 
