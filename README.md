@@ -36,15 +36,11 @@ T ≥ Rf Cf
 The integrator is most commonly used in analog computers and ADC and signal-wave shaping circuits.
 CIRCUIT DIAGRAM
 ## CIRCUIT DIAGRAM
-<img width="698" height="423" alt="image" src="https://github.com/user-attachments/assets/f007b349-f96e-42d3-acd3-a37119fc16fc" />
-
+![WhatsApp Image 2025-11-28 at 08 44 49_6bfdab74](https://github.com/user-attachments/assets/50425026-67bc-4760-b302-1b7c2f54167f)
 
 ## MODEL GRAPH
-<img width="556" height="380" alt="image" src="https://github.com/user-attachments/assets/caa7461c-69f7-4636-8e31-eea6db6efbb5" />
+![WhatsApp Image 2025-11-28 at 08 45 07_6927a35b](https://github.com/user-attachments/assets/aa8988ce-aaa9-4b23-b4cd-f3d83a277f30)
 
-<img width="847" height="553" alt="image" src="https://github.com/user-attachments/assets/d8d3e586-8e58-47ba-baae-2794c7955d51" />
-
----
 
 ## DESIGN
 
@@ -106,25 +102,22 @@ Here the negative sign indicates that the output voltage is 180 0 out of phase w
 The differentiator is most commonly used in wave shaping circuits to detect high frequency components in an input signal and also as a rate–of–change detector in FM modulators.
 
 ## CIRCUIT DIAGRAM
-<img width="760" height="414" alt="image" src="https://github.com/user-attachments/assets/6ee3caf5-d5de-4c38-8ebe-7ff5add6c9cd" />
-
+![WhatsApp Image 2025-11-28 at 08 47 14_7662602f](https://github.com/user-attachments/assets/93be6b2e-16dc-4b5b-8699-d06ef39ff0e6)
 
 
 ## MODEL GRAPH
 
 (i)	 SINE WAVE INPUT
 
-<img width="687" height="479" alt="image" src="https://github.com/user-attachments/assets/c89226c0-c2bb-4544-b355-27fc0d923f1a" />
----
+![WhatsApp Image 2025-11-28 at 08 47 15_93040db4](https://github.com/user-attachments/assets/e68c1d11-2c1d-467b-844d-a1f4fbadabc1)
+
 
 AND
 
 (ii) SQUARE WAVE INPUT
 
-<img width="758" height="447" alt="image" src="https://github.com/user-attachments/assets/cda33b00-c40c-490f-a9bd-e06107119c25" />
+![WhatsApp Image 2025-11-28 at 08 47 15_58540a56](https://github.com/user-attachments/assets/6f2cbf50-4add-4558-a9d9-ab4e3bbde703)
 
-
----
 
 ## DESIGN
 
