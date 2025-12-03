@@ -143,9 +143,8 @@ We get, CF = (1.59*103*10-7) / 15.9*103
 
 
 ## OUT PUT WAVEFORM AND DISCUSSION 
-![WhatsApp Image 2025-12-02 at 21 19 58_89f4f4e5](https://github.com/user-attachments/assets/cd6a51b5-d2a6-46f4-8623-317fe70b9e04)
 
-
+![WhatsApp Image 2025-12-03 at 23 23 52_37d06e60](https://github.com/user-attachments/assets/bdffa43e-05eb-4f55-ab55-8a1dd53bc5a3)
 
 
 RESULT:
