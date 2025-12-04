@@ -43,10 +43,10 @@ CIRCUIT DIAGRAM
 
 
 ## DESIGN
+![WhatsApp Image 2025-12-04 at 10 51 03_450f1546](https://github.com/user-attachments/assets/15666a0e-7112-4830-a2fa-2506c13f169f)
+![WhatsApp Image 2025-12-04 at 10 51 19_37d677b8](https://github.com/user-attachments/assets/e2ffeb26-6eff-402a-b1f7-ef68e569f197)
 
-To obtain the output of an Integrator circuit with component values R1Cf = 0.1ms , Rf = 10 R1 and Cf = 0.01 µF and also if 1 V peak square wave at 1000Hz is applied as input.
-We know the frequency at which the gain is 0 dB, fb = 1 / (2π R1 Cf) Therefore fb = 	 Since fb = 10 fa , and also the gain limiting frequency fa = 1 / (2π Rf Cf)
-We get , R1 = 10 kohm	and hence Rf = 100kohm	
+
 
 ## PROCEDURE
 
@@ -102,8 +102,7 @@ Here the negative sign indicates that the output voltage is 180 0 out of phase w
 The differentiator is most commonly used in wave shaping circuits to detect high frequency components in an input signal and also as a rate–of–change detector in FM modulators.
 
 ## CIRCUIT DIAGRAM
-![WhatsApp Image 2025-11-28 at 08 47 14_7662602f](https://github.com/user-attachments/assets/93be6b2e-16dc-4b5b-8699-d06ef39ff0e6)
-
+![WhatsApp Image 2025-12-04 at 11 08 27_b60aa880](https://github.com/user-attachments/assets/e4f337f4-77c9-4282-854e-bba3bdebf99f)
 
 ## MODEL GRAPH
 
@@ -120,15 +119,9 @@ AND
 
 
 ## DESIGN
+![WhatsApp Image 2025-12-04 at 10 55 13_6cfa367d](https://github.com/user-attachments/assets/d18a7f45-bce6-462b-ae07-6e585a51c722)
 
-Design an op-amp differentiator that will differentiate an input signal with fmax = 100HZ Select fa = fmax = 100 HZ = 1 / 2πRFC1
-Let C1 = 0.1μF
-Then RF = 1 / 2π(102)(10-7)
-= 15.9KΩ
-Now choose fb = 10fa = 1 / 2πR1C1 Therefore, R1 = 1 / 2π(103)(10-7)
-= 1.59KΩ Since RFCF = R1C1
-We get, CF = (1.59*103*10-7) / 15.9*103
-= 0.01μF
+
 
 
 ## PROCEDURE
